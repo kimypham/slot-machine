@@ -1,0 +1,15 @@
+#container {
+    width: 500px;
+    height: 400px;
+    background-color: grey;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.reel {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 100px;
+}
